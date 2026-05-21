@@ -1,9 +1,9 @@
 # Terms of Service
 
-**Effective date:** April 21, 2026
+**Effective date:** May 21, 2026
 **Publisher:** Fatih Özbay ("FoGuTech", "we", "us", or "our")
 
-These Terms of Service ("Terms") apply to every mobile game published by FoGuTech on the Apple App Store, including **LightLine** and any future titles, unless an individual game publishes superseding terms in-app. Throughout this document, "the App" refers to whichever FoGuTech game you are using.
+These Terms of Service ("Terms") apply to every mobile game published by FoGuTech on the Apple App Store, including **LightLine**, **JuicyPOP**, and any future titles, unless an individual game publishes superseding terms in-app. Throughout this document, "the App" refers to whichever FoGuTech game you are using.
 
 By downloading, installing, or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
@@ -39,7 +39,7 @@ The App, including its code, graphics, sounds, designs, and the names and brandi
 
 ## 5. Privacy
 
-Your use of the App is also governed by our [Privacy Policy](PRIVACY.md), which describes what information we (and third parties such as Google AdMob) handle.
+Your use of the App is also governed by our [Privacy Policy](PRIVACY.md), which describes what information we (and third parties such as Google AdMob and Google Firebase Analytics) handle.
 
 ## 6. Disclaimer of Warranties
 
