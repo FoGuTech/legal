@@ -3,7 +3,7 @@
 **Effective date:** May 21, 2026
 **Publisher:** Fatih Özbay ("FoGuTech", "we", "us", or "our")
 
-This Privacy Policy applies to every mobile game published by FoGuTech on the Apple App Store, including **LightLine**, **JuicyPOP**, and any future titles, unless an individual game publishes a superseding notice in-app. Throughout this document, "the App" refers to whichever FoGuTech game you are using.
+This Privacy Policy applies to every mobile game published by FoGuTech on the Apple App Store, including **LightLine**, **JuicyPOP**, and any future titles, unless an individual game publishes a superseding notice in-app. Throughout this document, "the App" refers to whichever FoGuTech game you are using. For its leaderboard feature, Juicy Pop collects and stores an anonymous user identifier, your high score, and your chosen display name via Google Firebase. No account or personal information is required. Display names are shown publicly on the leaderboard; inappropriate content is filtered and users can report or hide names. Data is processed on Google's servers.
 
 ---
 
